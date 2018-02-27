@@ -52,3 +52,5 @@ crashlytics-build.properties
 fabric.properties
 /data/cash.db3
 /_apache_logs/
+Будет удалено .idea/
+Будет удалено files/cash.loc/
